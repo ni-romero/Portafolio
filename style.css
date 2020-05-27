@@ -1,0 +1,45 @@
+
+body{
+  background-color: black;
+  background-image: url('img.1.jpeg');
+  
+  
+}
+
+
+a {
+  color: #f9fcff !important;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.card-body{
+  border: solid 1px white;
+}
+
+.card{
+  opacity: 0.9;
+ 
+}
+.boton{
+  width: 150px;
+  border-radius: 30px;
+  color: white;
+}
+h5, h3, h2, h4{
+  font-family: 'Oxanium';
+  color: rgb(255, 97, 195);
+}
+p{
+  font-family: 'Oxanium';
+}
+i{
+  text-align: center;
+
+}
+.perfil{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
